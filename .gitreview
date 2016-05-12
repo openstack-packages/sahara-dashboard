@@ -1,5 +1,5 @@
 [gerrit]
 host=review.gerrithub.io
 port=29418
-project=openstack-packages/sahara-ui
+project=openstack-packages/sahara-dashboard
 defaultbranch=rpm-master
